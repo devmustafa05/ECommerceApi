@@ -15,6 +15,7 @@ namespace ECommerce.Api.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
+            // asdasd
             _logger = logger;
         }
 
