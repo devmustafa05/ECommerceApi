@@ -1,0 +1,5 @@
+﻿Query ler read reğostory kullancak.
+Command lar write repostory yi kullancak.
+
+
+
